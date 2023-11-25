@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cuerpo.css">
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!--Este sera el loading de carga de la pagina-->
+
+
+    <!--Parte del encabezado con menu-->
+    <header>
+        <nav>
+            <a href="#">Inicio</a>
+            <a href="#">Sobre Nosotros</a>
+            <a href="#">Repuestos</a>
+            <a href="#">Mejoras a tu auto</a>
+            <a href="#">Nuevas adquisiciones</a>
+
+
+        </nav>
+    </header>
+
+    <div class="encabezado-img">
+        <h1 style="color: aliceblue;">
+            BIENVENIDO AL MUNDO DE LOS AUTOS
+        </h1>
+    </div>
+    <!--Boton flotante-->
+
+            <!--carrito de compras -->
+            <center>
+            <div class="link">
+        <h3>INGRESAR A LA TIENDA</h3>
+        <a href="virtual.html" target="_blank">TIENDA VIRTUAL</a></div> </center>
+        <!--Un pequeño concepto-->
+        <center>
+            <h2>DESCRIPCIÓN:</h2>
+            <p>
+                El deporte del motor como pasión. El placer de conducción
+                como misión. La perfección como fuerza motriz.Y siempre con
+                un objetivo en mente:desarrollar automóviles con el potencial
+                de convertirse en leyendas. No aceptaremos nada menos.</p>
+        </center>
+        <!--GALERIA DE MARCAS DE AUTOS-->
+        <center>
+            <H1>MARCAS DE AUTOS</H1>
+        </center>
+        <div class="contenedor-galeria">
+            <img src="Autos/bmw.jpg" alt="" class="galeria__img">
+            <img src="Autos/toyota.jpg" alt="" class="galeria__img">
+            <img src="Autos/ferrari.jpg" alt="" class="galeria__img">
+            <img src="Autos/lamborguini.jpg" alt="" class="galeria__img">
+            <img src="Autos/audi.jpg" alt="" class="galeria__img">
+            <img src="Autos/mercedesbenz.jpg" alt="" class="galeria__img">
+            <img src="Autos/nissan.jpg" alt="" class="galeria__img">
+            <img src="Autos/mazda.jpg" alt="" class="galeria__img">
+
+
+        </div>
+
+        <!--Aqui va la galeria de imagenes del contenido de autos de cada marca-->
+        <center>
+            <H1>GALERIA DE AUTOS</H1>
+        </center>
+        <div class="container">
+            <div class="caja caja1"> <img src="Autos/Ferrari 296.jpg">
+                <p>Ferrari 296</p>
+            </div>
+            <div class="caja caja2"> <img src="Autos/ferrari f12 berlinetta.jpg">
+                <p>FERRARI F12 BERLINETTA</p>
+            </div>
+            <div class="caja caja3"> <img src="Autos/ferrari puro sangre.jpg">
+                <p>FERRARI PURO SANGRE</p>
+            </div>
+            <div class="caja caja4"> <img src="Autos/ferrari f8 spider.jpg">
+                <p>Ferrari F8 SPIDER</p>
+            </div>
+            <div class="caja caja5"> <img src="Autos/audi a4 sedan.jpg">
+                <p>AUDI A4 SEDAN</p>
+            </div>
+            <div class="caja caja6"> <img src="Autos/audi A6.jpg">
+                <p>AUDI A6</p>
+            </div>
+            <div class="caja caja7"> <img src="Autos/audi RS etron GT.jpg">
+                <p>AUDI RS STRON GT</p>
+            </div>
+            <div class="caja caja8"><img src="Autos/audi sportback.jpg">
+                <p>AUDI SPORTBACK</p>
+            </div>
+            <div class="caja caja9"> <img src="Autos/lamborghini_urus_s2.jpg">
+                <p>LAMBORGHINI URUS S2</p>
+            </div>
+            <div class="caja caja10"> <img src="Autos/Lamborghini Diablo.JPG">
+                <p>LAMBORGHINI DIABLO</p>
+            </div>
+            <div class="caja caja11"> <img src="Autos/Lamborghini_Huracan_Evo_Spyder.jpg">
+                <p>LAMBORGHINI EVO SPYDER</p>
+            </div>
+            <div class="caja caja12"> <img src="Autos/lamborghinimurcielagogt1.jpg">
+                <p>LAMBORGHINI MURCIELAGO GT 1</p>
+            </div>
+            <div class="caja caja13"> <img src="Autos/bmw i4 berlina.jpeg">
+                <p>BMW i4 BERLINA</p>
+            </div>
+            <div class="caja caja14"> <img src="Autos/bmw iX 4x4 Suv.jpg">
+                <p>BMW iX 4X4 SUV</p>
+            </div>
+            <div class="caja caja15"> <img src="Autos/bmw serie 2.jpg">
+                <p>BMW SERIE 2</p>
+            </div>
+            <div class="caja caja16"> <img src="Autos/bmw serie 3 berlina.jpg">
+                <p>BMW SERIE 3 BERLINA</p>
+            </div>
+            <div class="caja caja17"> <img src="Autos/mazda 3 sedan.jpg">
+                <p>MAZDA 3 SEDAN</p>
+            </div>
+            <div class="caja caja18"> <img src="Autos/Mazda 6.jpg">
+                <p>MAZDA 6</p>
+            </div>
+            <div class="caja caja19"> <img src="Autos/Mazda bt-50.jpg">
+                <p>MAZDA BT-50</p>
+            </div>
+            <div class="caja caja20"> <img src="Autos/Mazda CX-30.jpg">
+                <p>MAZDA CX-30</p>
+            </div>
+            <div class="caja caja21"> <img src="Autos/mercedes benz clase B.jpg ">
+                <p>MERCEDES BENZ CLASE B</p>
+            </div>
+            <div class="caja caja22"> <img src="Autos/mercedes benz clase G.jpg ">
+                <p>MERCEDES BENZ CLASE G</p>
+            </div>
+            <div class="caja caja23"> <img src="Autos/mercedes benz gls.jpg ">
+                <p>MERCEDES BENZ GLS</p>
+            </div>
+            <div class="caja caja24"> <img src="Autos/mercedesbenz glc coupe.jpg ">
+                <p>MERCEDES BENZ GLC COUPE</p>
+            </div>
+            <div class="caja caja25"> <img src="Autos/nissan frontier.jpg ">
+                <p>NISSAN FRONTIER</p>
+            </div>
+            <div class="caja caja26"> <img src="Autos/nissan patrol.jpg  ">
+                <p>NISSAN PATROL</p>
+            </div>
+            <div class="caja caja27"> <img src="Autos/nissan sentra.jpg ">
+                <p>NISSAN SENTRA</p>
+            </div>
+            <div class="caja caja28"> <img src="Autos/Nissan_Qashqai.jpg ">
+                <p>NISSAN QASHQAI</p>
+            </div>
+            <div class="caja caja29"> <img src="Autos/toyota corolla.jpg ">
+                <p>TOYOTA COROLLA</p>
+            </div>
+            <div class="caja caja30"> <img src="Autos/toyota etios.jpg ">
+                <p>TOYOTA ETIOS</p>
+            </div>
+            <div class="caja caja31"> <img src="Autos/toyota fortuner.jpg ">
+                <p>TOYOTA FORTUNER</p>
+            </div>
+            <div class="caja caja32"> <img src="Autos/toyota hilux.jpg ">
+                <p>TOYOTA HILUX</p>
+            </div>
+
+        </body>
+
+        </div>
+
+
+        
+        
+            <script src="app.js"></script>
+        </body>
+
+        <!--Pie de pagina-->
+
+    </body>
+    <footer>
+        <div class="footer-col">
+            <h4>products</h4>
+            <ul>
+                <li><a href="#">Equipos</a></li>
+                <li><a href="#">Publicidad</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>Red</h4>
+            <ul>
+                <li><a href="#">Tecnologías</a></li>
+                <li><a href="#">Ayuda en linea</a></li>
+                <li><a href="#">Nuestro equipo</a></li>
+
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>Empresa</h4>
+            <ul>
+                <li><a href="#">legal</a></li>
+                <li><a href="#">Proveedores</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>Siguenos en :</h4>
+            <div class="links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+        <div class="grupo2">
+            <small>&copy;2023<b>Autor</b> Manfer Jesus Saravia Mateo</small>
+        </div>
+    </footer>
+    <script src="funcion.js"></script>
+
+</html>
